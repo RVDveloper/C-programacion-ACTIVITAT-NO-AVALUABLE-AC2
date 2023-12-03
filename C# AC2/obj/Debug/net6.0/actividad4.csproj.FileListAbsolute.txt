@@ -1,0 +1,15 @@
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.csproj.AssemblyReference.cache
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.AssemblyInfoInputs.cache
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.AssemblyInfo.cs
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.csproj.CoreCompileInputs.cache
+/Users/pro/capetac#/actividad4/bin/Debug/net6.0/actividad4
+/Users/pro/capetac#/actividad4/bin/Debug/net6.0/actividad4.deps.json
+/Users/pro/capetac#/actividad4/bin/Debug/net6.0/actividad4.runtimeconfig.json
+/Users/pro/capetac#/actividad4/bin/Debug/net6.0/actividad4.dll
+/Users/pro/capetac#/actividad4/bin/Debug/net6.0/actividad4.pdb
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.dll
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/refint/actividad4.dll
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.pdb
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/actividad4.genruntimeconfig.cache
+/Users/pro/capetac#/actividad4/obj/Debug/net6.0/ref/actividad4.dll
